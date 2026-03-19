@@ -36,14 +36,14 @@ Visualization: Grafana
 
 Libraries: fastf1, kafka-python, influxdb-client, pandas
 
-📊 Dashboard Preview
+Dashboard Preview
 
 Live Telemetry Trace:
 Visualizing speed comparisons between drivers (e.g., VER vs PER) in real-time.
 
 (Note: Replace this line with your actual screenshot after uploading)
 
-🚀 Getting Started
+ Getting Started
 
 Prerequisites
 
@@ -109,6 +109,6 @@ from(bucket: "telemetry")
 
 
 
-🤝 Contributing
+Contributing
 
  Suggestions and pull requests are welcome.
